@@ -6,4 +6,36 @@
   .footer-link {
     @apply cursor-pointer underline;
   }
+
+  .orange-gradient {
+    @apply from-orange to-pink bg-gradient-to-b;
+  }
+
+  .blue-gradient {
+    @apply from-blue to-orange bg-gradient-to-b;
+  }
+
+  .text-body-sm {
+    @apply text-gray font-bold leading-7;
+  }
+
+  .text-body-md {
+    @apply text-gray text-lg font-medium leading-7;
+  }
+
+  .text-heading-xl {
+    @apply text-dark text-[3.5rem] font-extrabold leading-normal;
+  }
+
+  .text-heading-lg {
+    @apply text-dark text-[2.5rem] font-extrabold leading-normal;
+  }
+
+  .text-heading-md {
+    @apply text-dark text-[2rem] font-extrabold leading-10;
+  }
+
+  .text-heading-sm {
+    @apply text-dark text-2xl font-extrabold leading-normal;
+  }
 }

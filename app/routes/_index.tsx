@@ -114,7 +114,7 @@ export default function Index() {
       <div className="bg-dark mb-10 flex items-center justify-between px-4 py-9 md:px-9 lg:px-32">
         <img src={logoLight} alt="logo" className="w-20" />
         <Button className="bg-gradient-blue relative text-white ">
-          <div className="absolute left-0 top-0 h-full w-full rounded-[inherit] bg-white opacity-0 hover:opacity-50"></div>
+          <span className="absolute left-0 top-0 h-full w-full rounded-[inherit] bg-white opacity-0 hover:opacity-50"></span>
           Get Started
         </Button>
       </div>

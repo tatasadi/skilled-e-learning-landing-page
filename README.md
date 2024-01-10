@@ -25,8 +25,17 @@ Users should be able to:
 
 ### Screenshots
 
+Desktop
+
 ![](./screenshot1.jpg)
+
+Tablet
+
 ![](./screenshot2.jpg)
+
+Mobile
+
+![](./screenshot3.jpg)
 
 ### Links
 
